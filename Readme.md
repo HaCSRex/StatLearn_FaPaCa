@@ -10,14 +10,14 @@ proteomics biomarkers to improve individualized prevention of familial
 pancreatic cancer**
 
 -   Simulator :
-    -   R/Simulation study/data\_simulator.R
+    -   R/data\_simulator.R
 -   Experiment 1:
-    -   R/Simulation study/simulation\_experiment1\_ridge.r
-    -   R/Simulation study/simulation\_experiment1\_adalasso.r
-    -   R/Simulation study/simulation\_experiment1\_mboost.r
+    -   R/simulation\_experiment1\_ridge.R
+    -   R/simulation\_experiment1\_adalasso.R
+    -   R/simulation\_experiment1\_mboost.R
 -   Experiment 2:
-    -   R/Simulation study/simulation\_experiment2\_adalasso.r
-    -   R/Simulation study/simulation\_experiment2\_mboost.r
+    -   R/simulation\_experiment2\_adalasso.R
+    -   R/simulation\_experiment2\_mboost.R
 
 <!-- -->
 
