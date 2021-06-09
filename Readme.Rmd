@@ -1,0 +1,23 @@
+---
+title: "Statistical learning with high-throughput proteomics biomarkers to improve individualized prevention of familial pancreatic cancer"
+output: github_document
+---
+
+## Description
+
+This repository contains the R scripts of the simulation procedures described in the paper **Statistical learning with high-throughput proteomics biomarkers to improve individualized prevention of familial pancreatic cancer**
+
++ Simulator : 
+  - R/Simulation study/data_simulator.R
++ Experiment 1: 
+  - R/Simulation study/simulation_experiment1_ridge.r
+  - R/Simulation study/simulation_experiment1_adalasso.r
+  - R/Simulation study/simulation_experiment1_mboost.r
++ Experiment 2: 
+  - R/Simulation study/simulation_experiment2_adalasso.r
+  - R/Simulation study/simulation_experiment2_mboost.r
+
+
+```{r pressure, echo=FALSE}
+sessionInfo(package = c("mboost", "stabs", "glmnet", "tidyverse", "data.table"))
+```
